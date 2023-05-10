@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Product>      //BeatBox.Models.Product
+
+<div class="row m-3" style="margin:auto;align-content:center;justify-content:center;">
+    @foreach (var product in Model)
+    {
+        <div class="card col-lg-3 m-1" style="width: 15rem;">
+            <img src="@product.ImageUrl" class="card-img-top img-fluid py-2 img-shadow" alt="images">
+            <div class="card-body">
+                <h5 class="card-title text-center">@product.Title</h5>
+                <p class="card-title text-secondary" style="text-align:center">@product.Artist</p>
+                <div class="row">
+                    <div class="col-6">
+                        <p>List Price: <strike><b>₹@product.ListPrice.ToString("0.00")</b></strike></p>
+                    </div>
+                    <div class="col-6">
+                        <p><b>Discount: ₹@product.Price100.ToString("0.00")</b></p>
+                    </div>
+                </div>
+                <div>
+                    <a asp-action="Details" class="btn btn-primary form-control" asp-route-productId="@product.Id">
+                        Details
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

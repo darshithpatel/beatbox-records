@@ -1,0 +1,34 @@
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.AssemblyInfo.cs
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.DataAccess.deps.json
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.DataAccess.runtimeconfig.json
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.DataAccess.dll
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.DataAccess.pdb
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.Models.dll
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.Models.pdb
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.csproj.CopyComplete
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.dll
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\refint\BeatBox.DataAccess.dll
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.pdb
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.genruntimeconfig.cache
+C:\Users\Darshit Domadiya\source\repos\BeatBox.DataAccess\obj\Debug\net6.0\ref\BeatBox.DataAccess.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.DataAccess.deps.json
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.DataAccess.runtimeconfig.json
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.DataAccess.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.DataAccess.pdb
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.Models.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\bin\Debug\net6.0\BeatBox.Models.pdb
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.csproj.AssemblyReference.cache
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.AssemblyInfoInputs.cache
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.AssemblyInfo.cs
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.csproj.CoreCompileInputs.cache
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.csproj.CopyComplete
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\refint\BeatBox.DataAccess.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.pdb
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\BeatBox.DataAccess.genruntimeconfig.cache
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.DataAccess\obj\Debug\net6.0\ref\BeatBox.DataAccess.dll

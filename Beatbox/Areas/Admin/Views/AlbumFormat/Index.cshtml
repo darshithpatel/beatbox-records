@@ -1,0 +1,45 @@
+﻿@model IEnumerable<AlbumFormat>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2>Album Formats</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="AlbumFormat" asp-action="Create" class="btn btn-primary">
+                <i class="bi bi-patch-plus"></i> &nbsp; Add New Album Format
+            </a>
+        </div>
+    </div>
+    <br/>
+<table style="width:100%" class="table table-bordered table-striped">
+    <thead>
+            <tr>
+                <th>Album Format</th>
+                <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model)
+        {
+            <tr>
+
+            <td width="50%">@obj.Name</td>
+            
+            <td>
+                        <div style="position: relative;left: 70px;" class="w-75 btn-group" role="group">
+                            <a style="background-color:#3fb3ec" asp-controller="AlbumFormat" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2"> <i class="bi bi-pencil-square"> Edit</i></a>
+                            <a style="background-color:#ed5f69" asp-controller="AlbumFormat" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-primary mx-3"> <i class="bi bi-trash3"> Delete</i></a>
+                </div>
+            </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+
+@section Scripts{<script src="~/js/scripts.js"></script>}

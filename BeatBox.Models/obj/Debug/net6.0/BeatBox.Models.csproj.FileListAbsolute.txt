@@ -1,0 +1,24 @@
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\bin\Debug\net6.0\BeatBox.Models.deps.json
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\bin\Debug\net6.0\BeatBox.Models.dll
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\bin\Debug\net6.0\BeatBox.Models.pdb
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.csproj.AssemblyReference.cache
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.AssemblyInfoInputs.cache
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.AssemblyInfo.cs
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.csproj.CoreCompileInputs.cache
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.dll
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\obj\Debug\net6.0\refint\BeatBox.Models.dll
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.pdb
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Models\obj\Debug\net6.0\ref\BeatBox.Models.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\bin\Debug\net6.0\BeatBox.Models.deps.json
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\bin\Debug\net6.0\BeatBox.Models.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\bin\Debug\net6.0\BeatBox.Models.pdb
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.csproj.AssemblyReference.cache
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.AssemblyInfoInputs.cache
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.AssemblyInfo.cs
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.csproj.CoreCompileInputs.cache
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\obj\Debug\net6.0\refint\BeatBox.Models.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\obj\Debug\net6.0\BeatBox.Models.pdb
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Models\obj\Debug\net6.0\ref\BeatBox.Models.dll

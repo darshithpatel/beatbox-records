@@ -1,0 +1,24 @@
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\bin\Debug\net6.0\BeatBox.Utility.deps.json
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\bin\Debug\net6.0\BeatBox.Utility.dll
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\bin\Debug\net6.0\BeatBox.Utility.pdb
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.csproj.AssemblyReference.cache
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.AssemblyInfoInputs.cache
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.AssemblyInfo.cs
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.dll
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\obj\Debug\net6.0\refint\BeatBox.Utility.dll
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.pdb
+C:\Users\Darshit Domadiya\source\repos\BeatBox.Utility\obj\Debug\net6.0\ref\BeatBox.Utility.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\bin\Debug\net6.0\BeatBox.Utility.deps.json
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\bin\Debug\net6.0\BeatBox.Utility.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\bin\Debug\net6.0\BeatBox.Utility.pdb
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.csproj.AssemblyReference.cache
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.AssemblyInfoInputs.cache
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.AssemblyInfo.cs
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.csproj.CoreCompileInputs.cache
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\obj\Debug\net6.0\refint\BeatBox.Utility.dll
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\obj\Debug\net6.0\BeatBox.Utility.pdb
+D:\.Net\BeatBox\Beatbox_Final_Backup_144\BeatBox.Utility\obj\Debug\net6.0\ref\BeatBox.Utility.dll
